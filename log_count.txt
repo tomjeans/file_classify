@@ -1,0 +1,19 @@
+6.28 ac 4
+6.28 cerebellum 4
+6.28 fl 4
+6.28 hc 4
+7.11 ac 4
+7.11 cerebellum 4
+7.11 fl 4
+7.11 hc 4
+7.12 ac 4
+7.12 cerebellum 5
+7.12 fl 4
+7.12 hc 4
+7.18 ac 4
+7.18 fl 4
+7.18 hc 4
+count_ac 16
+count_fl 16
+count_hc 16
+count_cerebellum 13
